@@ -1,0 +1,16 @@
+certifi==2020.6.20
+cycler==0.10.0
+kiwisolver @ file:///tmp/build/80754af9/kiwisolver_1604014557000/work
+matplotlib @ file:///tmp/build/80754af9/matplotlib-base_1603373816490/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+numpy @ file:///tmp/build/80754af9/numpy_and_numpy_base_1603487797006/work
+olefile==0.46
+Pillow @ file:///tmp/build/80754af9/pillow_1603822238230/work
+pyparsing==2.4.7
+PyQt5==5.15.1
+PyQt5-sip==12.8.1
+python-dateutil==2.8.1
+six==1.15.0
+tornado==6.0.4
